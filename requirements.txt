@@ -1,0 +1,7 @@
+Django==2.2.3
+docutils==0.14
+pygame==1.9.6
+PyPacMan==0.1.8
+pytz==2019.1
+sqlparse==0.3.0
+statistics==1.0.3.5
